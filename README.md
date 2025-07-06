@@ -233,9 +233,9 @@ So, then you have two options:
 
 # Thank you!
 
-If you appreciated this, feel free to follow me or donate!
+If you appreciated this, feel free to follow me!
 
-ETH/Polygon/etc Address: 0xAcaF7465B2849E6958fFDc68709Ad186DAa17622
+<!-- ETH/Polygon/etc Address: 0xAcaF7465B2849E6958fFDc68709Ad186DAa17622 -->
 
 [![Odudu Umoeka Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/UMOEKA)
 [![Odudu Umoeka Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/odudu-umoeka/)
